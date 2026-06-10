@@ -4,7 +4,7 @@
 {
   "role": "Software Engineer & Architect",
   "location": "Barcelona, Spain",
-  "focus": ["Backend (Go, PHP, Node)", "Frontend (React, Angular, Next.js)", "AI Integrations (RAG, LLM, CrewAI)"],
+  "focus": ["Backend (Go, PHP, Node)", "Frontend (React, Angular)", "Mobile (Flutter)", "AI Integrations (RAG, LLM, Claude)", "Hardware & IoT (Rust, Python)"],
   "philosophy": "DDD, Hexagonal Architecture, SOLID & Spec-Driven Development"
 }
 ```
