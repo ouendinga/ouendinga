@@ -19,4 +19,4 @@
 ---
 
 ### 🔗 Enlaces
-[alvarosolis.dev](https://alvarosolis.dev) • [LinkedIn](https://www.linkedin.com/in/alvaro-solis-pascual-a477383b)
+[alvarosolis.dev](https://alvarosolis.dev) • [LinkedIn](https://www.linkedin.com/in/alvarosolispascual/)
