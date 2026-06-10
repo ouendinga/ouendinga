@@ -1,16 +1,22 @@
-### Hi there 👋
+# Álvaro Solís Pascual
 
-<!--
-**ouendinga/ouendinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "role": "Software Engineer & Architect",
+  "location": "Barcelona, Spain",
+  "focus": ["Backend (Go, PHP, Node)", "Frontend (React, Angular, Next.js)", "AI Integrations (RAG, LLM, CrewAI)"],
+  "philosophy": "DDD, Hexagonal Architecture, SOLID & Spec-Driven Development"
+}
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 De un vistazo
+*   **Globant** — Diseñando e implementando software para plataformas de comunicaciones, migraciones críticas de Symfony a Go, y cimientos para sistemas de IA.
+*   **Bekodo** — 8 años desarrollando soluciones full-stack de alto impacto (MACBA, VilaWeb, Betevé).
+*   **Offline** — Escalando y haciendo alpinismo en los Pirineos, o trasteando con soldadores, electrónica y Raspberry Pi.
+
+---
+
+### 🔗 Enlaces
+[alvarosolis.dev](https://alvarosolis.dev) • [LinkedIn](https://www.linkedin.com/in/alvaro-solis-pascual-a477383b)
