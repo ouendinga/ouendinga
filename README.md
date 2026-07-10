@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 De un vistazo
-*   **Globant** — Diseñando e implementando software para plataformas de comunicaciones, migraciones críticas de Symfony a Go, y cimientos para sistemas de IA.
-*   **Bekodo** — 8 años desarrollando soluciones full-stack de alto impacto (MACBA, VilaWeb, Betevé).
+*   **Globant** — Diseñando e implementando software para plataformas de comunicaciones, migraciones, desde Python, Symfony, algo de Go y React, y cimientos para sistemas de IA.
+*   **Bekodo** — 8 años desarrollando soluciones full-stack de alto impacto (MACBA, VilaWeb, Betevé, ...).
 *   **Offline** — Escalando y haciendo alpinismo en los Pirineos, o trasteando con soldadores, electrónica y Raspberry Pi.
 
 ---
